@@ -1,0 +1,56 @@
+﻿<Window x:Class="appBanque.UnCompteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:appBanque"
+        mc:Ignorable="d"
+        Title="UnCompteWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Width="300" >
+                <TextBlock Text="Sélectionner le numéro du compte"/>
+                <ListBox x:Name="lstComptes" Width="100" Margin="0,50,0,0">
+                    
+                </ListBox>
+
+            </StackPanel>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,50,0,0" >
+                    <TextBlock Text="Numéro" Width="120" />
+                    <TextBox x:Name="txtNumero" 
+                             DataContext="{Binding ElementName=lstComptes, Path=SelectedItem}" 
+                             Text="{Binding numero}" 
+                             Height="20" Width="100" >
+                        <TextBox.BindingGroup>
+                            <BindingGroup/>
+                        </TextBox.BindingGroup>
+                    </TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Nom" Width="120" />
+                    <TextBox x:Name="txtNom" 
+                             DataContext="{Binding ElementName=lstComptes, Path=SelectedItem}" 
+                             Text="{Binding nom}"  
+                             Height="20" Width="100" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Solde" Width="120"/>
+                    <TextBox x:Name="txtSolde" 
+                             DataContext="{Binding ElementName=lstComptes, Path=SelectedItem}" 
+                             Text="{Binding solde}" 
+                             Height="20" Width="100" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Découvert autorisé" Width="120"/>
+                    <TextBox x:Name="txtDecouvert" 
+                             DataContext="{Binding ElementName=lstComptes, Path=SelectedItem}" 
+                             Text="{Binding decouvertAutorise}" 
+                             Height="20" Width="100" />
+                </StackPanel>
+                
+            </StackPanel>   
+                
+        </StackPanel>
+    </Grid>
+</Window>

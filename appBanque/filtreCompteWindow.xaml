@@ -1,0 +1,29 @@
+﻿<Window x:Class="appBanque.filtreCompteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:appBanque"
+        mc:Ignorable="d"
+        Title="Les comptes filtrés par solde" Height="450" Width="800">
+    <Grid>
+        
+        <TextBlock Name="Select" Text="Sélectionnez le solde maximum" Width="200" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+        <TextBlock Name="afficheSolde" Text="TEST" Width="30" Height="25" Margin="175,0,600,0"/>
+
+        <ListBox x:Name="lstSolde" Width="100" Height="300" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="25,0,0,0" MouseDoubleClick="lstSolde_MouseDoubleClick">
+
+        </ListBox>
+        <DataGrid x:Name="gridSolde" AutoGenerateColumns="False" Height="300" Width="400" Margin="250,67,150,67">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Numéro" Binding="{Binding numero}"/>
+                <DataGridTextColumn Header="Nom" Binding="{Binding nom}"/>
+                <DataGridTextColumn Header="Solde" Binding="{Binding solde}"/>
+                <DataGridTextColumn Header="Découvert Autorisé" Binding="{Binding decouvertAutorise}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+
+    </Grid>
+</Window>
