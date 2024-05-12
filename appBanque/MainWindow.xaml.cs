@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -116,5 +117,19 @@ namespace appBanque
                 c.Show();
             }
         }
+
+        private void MenuItem_Click_7(object sender, RoutedEventArgs e)
+        {
+            if(this.laBanque == null) 
+            {
+                MessageBox.Show("Veuillez charger le fichier Data");
+            }
+            else
+            {
+                statistiques c = new statistiques(this.laBanque);
+                c.Show();
+            }
+        }
+        
     }
 }

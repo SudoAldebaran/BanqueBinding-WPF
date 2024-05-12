@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\rayan\Desktop\WPF\TP_banqueBinding\appBanqueV0\appBanque\obj\Debug\
+C:\Users\rayan\Documents\GitHub\BanqueBinding-WPF\appBanque\obj\Debug\
 appBanque
 none
 false
 DEBUG;TRACE
-C:\Users\rayan\Desktop\WPF\TP_banqueBinding\appBanqueV0\appBanque\App.xaml
-5688597358
+C:\Users\rayan\Documents\GitHub\BanqueBinding-WPF\appBanque\App.xaml
+62030684583
 
-102090801178
-14253212308
-ajoutCompte.xaml;filtreCompteWindow.xaml;LesComptesWindow.xaml;MainWindow.xaml;UnCompteWindow.xaml;
+11409459917
+14-998877006
+ajoutCompte.xaml;filtreCompteWindow.xaml;LesComptesWindow.xaml;MainWindow.xaml;statistiques.xaml;UnCompteWindow.xaml;
 
 True
 

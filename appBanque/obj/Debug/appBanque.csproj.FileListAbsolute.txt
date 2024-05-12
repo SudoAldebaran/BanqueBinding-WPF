@@ -91,3 +91,5 @@ C:\Users\rayan\Documents\GitHub\BanqueBinding-WPF\appBanque\obj\Debug\appBanque.
 C:\Users\rayan\Documents\GitHub\BanqueBinding-WPF\appBanque\obj\Debug\appBanque.csproj.Up2Date
 C:\Users\rayan\Documents\GitHub\BanqueBinding-WPF\appBanque\obj\Debug\appBanque.exe
 C:\Users\rayan\Documents\GitHub\BanqueBinding-WPF\appBanque\obj\Debug\appBanque.pdb
+C:\Users\rayan\Documents\GitHub\BanqueBinding-WPF\appBanque\obj\Debug\statistiques.g.cs
+C:\Users\rayan\Documents\GitHub\BanqueBinding-WPF\appBanque\obj\Debug\statistiques.baml

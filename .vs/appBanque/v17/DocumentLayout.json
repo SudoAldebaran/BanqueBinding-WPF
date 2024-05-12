@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appbanque\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|solutionrelative:appbanque\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appbanque\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|solutionrelative:appbanque\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|c:\\users\\rayan\\documents\\github\\banquebinding-wpf\\appbanque\\statistiques.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|solutionrelative:appbanque\\statistiques.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|c:\\users\\rayan\\documents\\github\\banquebinding-wpf\\appbanque\\ajoutcompte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|solutionrelative:appbanque\\ajoutcompte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|c:\\users\\rayan\\documents\\github\\banquebinding-wpf\\appbanque\\statistiques.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|solutionrelative:appbanque\\statistiques.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appbanque\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|solutionrelative:appbanque\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appbanque\\ajoutcompte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -20,14 +28,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|appBanque||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appbanque\\uncomptewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|solutionrelative:appbanque\\uncomptewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appbanque\\uncomptewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|solutionrelative:appbanque\\uncomptewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C79F622-9E50-490F-BCEA-C29D95F40C2B}|appBanque\\appBanque.csproj|C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appbanque\\filtrecomptewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\MainWindow.xaml",
               "RelativeDocumentMoniker": "appBanque\\MainWindow.xaml",
@@ -87,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "appBanque\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\MainWindow.xaml.cs",
-              "RelativeToolTip": "appBanque\\MainWindow.xaml.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAswHIAAAA/AAAA",
+              "ToolTip": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "appBanque\\MainWindow.xaml.cs*",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAUwIEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T23:49:30.749Z",
               "IsPinned": true,
@@ -101,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ajoutCompte.xaml",
               "DocumentMoniker": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\ajoutCompte.xaml",
               "RelativeDocumentMoniker": "appBanque\\ajoutCompte.xaml",
@@ -119,10 +119,35 @@
               "RelativeDocumentMoniker": "appBanque\\ajoutCompte.xaml.cs",
               "ToolTip": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\ajoutCompte.xaml.cs",
               "RelativeToolTip": "appBanque\\ajoutCompte.xaml.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwDIAAAA3AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADIAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T15:39:28.161Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "statistiques.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\statistiques.xaml.cs",
+              "RelativeDocumentMoniker": "appBanque\\statistiques.xaml.cs",
+              "ToolTip": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\statistiques.xaml.cs*",
+              "RelativeToolTip": "appBanque\\statistiques.xaml.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:32:08.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "statistiques.xaml",
+              "DocumentMoniker": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\statistiques.xaml",
+              "RelativeDocumentMoniker": "appBanque\\statistiques.xaml",
+              "ToolTip": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\statistiques.xaml",
+              "RelativeToolTip": "appBanque\\statistiques.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T00:31:59.331Z",
               "EditorCaption": ""
             },
             {
@@ -135,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appBanque",
               "DocumentMoniker": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\appBanque.csproj",
               "RelativeDocumentMoniker": "appBanque\\appBanque.csproj",
@@ -143,29 +168,6 @@
               "RelativeToolTip": "appBanque\\appBanque.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-11T21:47:42.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UnCompteWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\UnCompteWindow.xaml",
-              "RelativeDocumentMoniker": "appBanque\\UnCompteWindow.xaml",
-              "ToolTip": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\UnCompteWindow.xaml",
-              "RelativeToolTip": "appBanque\\UnCompteWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T15:53:20.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnCompteWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\UnCompteWindow.xaml.cs",
-              "RelativeDocumentMoniker": "appBanque\\UnCompteWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\rayan\\Documents\\GitHub\\BanqueBinding-WPF\\appBanque\\UnCompteWindow.xaml.cs",
-              "RelativeToolTip": "appBanque\\UnCompteWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:43:29.71Z"
             }
           ]
         }
