@@ -58,6 +58,8 @@ namespace appBanque
             this.soldeMin.Text = soldeMin.ToString();
             this.nbSoldesNegatifs.Text = soldeNeg.ToString();
 
+            // A UPDATE
+
         }
     }
 }
